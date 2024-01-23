@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q1a2hfkUCZFCiFDvJx+C1SHPGMfyWaqFnR4gJOFnEyWe9b2qn6MgjV6G7LzGKdFo9nOl5JVyyzMk6lGwBulgdg==",
+  "success": true,
+  "projectFilePath": "/Users/nergiznadirli/Desktop/Homework2301/Homework2301/Homework2301.csproj",
+  "expectedPackageFiles": [
+    "/Users/nergiznadirli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/nergiznadirli/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512",
+    "/Users/nergiznadirli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
